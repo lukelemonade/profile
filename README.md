@@ -15,7 +15,9 @@
 ❤️ Space to spend time with family <br>
 🏄‍♂️ Occasionally go for a surf <br>
 
-## Outcomes I'm proud of
+## Experience
+
+#### Outcomes I'm proud of
 
 `Established Platform strategy with the CTO as the key investor, prioritised top level initiatives with VPs across the business. Planted and grew a Platform oriented culture within the 800+ Technology organisation. Delivered foundational data phase of platform strategy. Executing on phase 2 of mission `
 
@@ -25,4 +27,4 @@
 > Deployments: ~60%+ deployments standardisation across infrastructure and apps; ~60%+ deployment pipelines with an automated Release audit log, saving 500hrs of manual effort QoQ; improved cost efficiency across tooling set <br>
 > Onboarding: 1 standardised hiring process for software engineers I & II; 1 standardised onboarding process for snr /software engineers I & II <br>
 
-
+#### Outcomes I'm proud of
