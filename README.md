@@ -1,13 +1,13 @@
 # Luke Bacon
 
-## What do I bring?
+### What do I bring?
 
 💸 Outcome and business focused <br>
 🤯 Comfortable in highly complex technical environments <br>
 🌪️ Comfortable with high levels of ambiguity <br>
 🤝 Love achieving things as a team <br>
 
-## What I do want?
+### What I do want?
 
 🙌 Purpose driven mission <br>
 🤝 Great team <br>
@@ -15,19 +15,25 @@
 ❤️ Space to spend time with family <br>
 🏄‍♂️ Occasionally go for a surf <br>
 
-## Outcomes
+## Experience
 
 #### Checkout.com online payments | Technical Product Manager | 3 yrs
 
-`Established Platform strategy with the CTO as the key investor, prioritised top level initiatives with VPs across the business. Planted and grew a Platform oriented culture within the 800+ Technology organisation. Delivered foundational data phase of platform strategy.`
+Established Platform strategy with the CTO as the key investor, prioritised top level initiatives with VPs across the business. Planted and grew a Platform oriented culture within the 800+ Technology organisation. Delivered foundational data phase of platform strategy.
 
-> Culture: +% increase over 2023 in Platform satisfaction; evangalised customer first development approach for internal 'products' <br>
+> Culture: +% increase over 2023 in Platform satisfaction; evangalised customer first development approach for internal products <br>
+
 > Excellence:  In 12mths, ~80% of microservices surfaced in one place; increased security compliance by ~60%+ <br>
+
 > Metrics: DORA metrics available for all teams; GetDX survey (SPACE productivity framework) implemented for all engineers <br>
+
 > Deployments: ~60%+ deployments standardisation across infrastructure and apps; ~60%+ deployment pipelines with an automated Release audit log, saving 500hrs of manual effort QoQ; improved cost efficiency across CICD tooling set <br>
+
 > Onboarding: 1 standardised hiring process for software engineers I & II; 1 standardised onboarding process for snr /software engineers I & II; onboarding satisfaction captured for all technical employees <br>
 
-`Lessons Learned: frequent exec changes hits delivery momentum; you can get by without delivery managers; multiple long term bets in parallel hits profitabilty; usage and $ data is foundational functionality; change engineering culture by doing; first, link platform work to profitability; don't be intimidated by highly technical people, just ask why`
+Lessons Learned - frequent exec changes hits delivery momentum - you can get by without delivery managers - multiple long term bets in parallel hits profitabilty - usage and $ data is foundational functionality - change engineering culture by doing - first, link platform work to profitability; always ask technical people why`
+
+| Lesson learned | | ----- | ----- | | frequent exec changes hits delivery momentum | | you can get by without delivery managers | | multiple long term bets in parallel hits profitabilty |
 
 #### UK Parliament technology | Agile Coach | 7 mths
 
@@ -39,11 +45,13 @@
 
 `Lessons Learned: heros != strategic, the purpose of the mission is key; agile coaching is not for me `
 
+
 #### London School of Economics | MBA Essentials | 3 mths
 
 `Successfully passed a MBA 'lite' course with LSE `
 
 > Improved the payme
+
 
 #### HSBC commercial banking | Program Manager | 2.5 yrs
 
@@ -54,6 +62,7 @@
 > Resolved a critical regulatory obligation <br>
 > Delivered PSD2, RTP, Purpose of Payment, etc regulatory requirements <br>
 > Executed a significant hand over to operational teams <br>
+<br>
 
 #### C. Hoare & Co private banking | Project Manager | 4 yrs
 
