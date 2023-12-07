@@ -103,5 +103,10 @@ Delivered multiple improved customer experiences. Delivered game changing techno
 > Completed analysis towards a successful post deal re-org, on the sale of the wealth management  business to Casenove Capital <br>
 
 > Enabled ~10k+ customers to pay cheques in by taking a photo <br>
+<br>
 
+### Projects
 
+Strawbebe | A sustainable kids clothing brand. My goal is to gain 1k customers. Shop [here](strawbebe.com)
+
+Flexapp | A quick status update for execs, based on tangible progress. React app in AWS. Project [here](https://github.com/The-Flex-App)
