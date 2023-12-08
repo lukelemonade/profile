@@ -27,7 +27,7 @@ Established engineering Platform strategy with the CTO as the key investor, prio
 
 > Metrics: DORA metrics available for all teams; implemented GetDX survey for Technology org <br>
 
-> Deployments: 'Ease of Release' and 'Build processes' have highest satisfaction ratings;  60%+ deployments standardisation across infrastructure and apps; 500hrs of manual effort QoQ via automated audit logging; improved cost efficiency via streamlining CICD tooling <br>
+> Deployments: 'Ease of Release' and 'Build processes' have highest satisfaction ratings;  60%+ deployments standardisation across infrastructure and apps; 500hrs of manual effort saved QoQ via automated audit logging; improved cost efficiency via streamlining CICD tooling <br>
 
 > Onboarding: 1 standardised hiring process for software engineers I & II; 1 standardised onboarding process for snr /software engineers I & II; onboarding satisfaction captured for all technical employees <br>
 
