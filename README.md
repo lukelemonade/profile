@@ -19,15 +19,15 @@
 
 #### Checkout.com online payments | Technical Product Manager | 3 yrs
 
-Established engineering Platform strategy with the CTO as the key investor, prioritised top level initiatives with VPs across the business. Planted and grew a Platform oriented culture within the 800+ Technology organisation. Delivered foundational data phase of platform strategy.
+Established engineering Platform strategy with the CTO as the key investor, prioritised top level initiatives with VPs across the business. Planted and grew a Platform oriented culture within the 800+ Technology organisation.
 
 > Culture: Over 2023, CSAT increase in Platform satisfaction; evangalised customer first development for internal products <br>
 
-> Excellence:  In 12mths, 80%+ of microservices surfaced in one place; increased security compliance by 60%+ <br>
+> Excellence:  In 12mths, 80%+ of microservices surfaced in one place; 60%+ increase in security compliance; scoring platform for   <br>
 
-> Metrics: DORA metrics available for all teams; implemented GetDX survey for Technology org <br>
+> Data: events across 5+ tools in one place; DORA metrics available for all teams; implemented GetDX survey for Technology org <br>
 
-> Deployments: 'Ease of Release' and 'Build processes' have highest satisfaction ratings;  60%+ deployments standardisation across infrastructure and apps; 500hrs of manual effort saved QoQ via automated audit logging; improved cost efficiency via streamlining CICD tooling <br>
+> Deployments: highest GetDX satisfaction ratings with 'Ease of Release' and 'Build processes';  60%+ deployments standardisation across infrastructure and appplications; 500hrs of manual effort saved QoQ via automated audit logging; improved cost efficiency via streamlining CICD tooling <br>
 
 > Onboarding: 1 standardised hiring process for software engineers I & II; 1 standardised onboarding process for snr /software engineers I & II; onboarding satisfaction captured for all technical employees <br>
 
@@ -90,7 +90,7 @@ Lessons Learned
 
 #### C. Hoare & Co private banking | Project Manager | 4 yrs
 
-Delivered multiple improved customer experiences. Delivered game changing technologies for the 350yr old bank, ie. Cloud 😆 
+Delivered multiple improved customer experiences and game changing technologies for the 350yr old bank, ie. Cloud 😆 
 
 > Improved customer payment experience, reduced costs and met regulatory timelines for SEPA <br>
 
