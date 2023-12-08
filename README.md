@@ -19,7 +19,7 @@
 
 #### Checkout.com online payments | Technical Product Manager | 3 yrs
 
-Established Platform strategy with the CTO as the key investor, prioritised top level initiatives with VPs across the business. Planted and grew a Platform oriented culture within the 800+ Technology organisation. Delivered foundational data phase of platform strategy.
+Established engineering Platform strategy with the CTO as the key investor, prioritised top level initiatives with VPs across the business. Planted and grew a Platform oriented culture within the 800+ Technology organisation. Delivered foundational data phase of platform strategy.
 
 > Culture: +% increase over 2023 in Platform satisfaction; evangalised customer first development approach for internal products <br>
 
