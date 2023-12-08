@@ -58,7 +58,7 @@ Lessons Learned
 
 Successfully passed a MBA 'lite' course with LSE
 
-> Influencing techniques; Demand and Supply; Value Creation; Value Chain; Financial Statements; Return on Investment; Business performance; Unconscious bias; Organisational change
+> Influencing techniques; Demand and Supply; Value Creation; Value Chain; Financial Statements; Return on Investment; Business performance; Unconscious bias; Organisational change <br>
 
 Lessons Learned
 - understanding what investors value makes me a pragmatic technologist
@@ -78,7 +78,6 @@ Executed 10+ global product launches leading a team of 30 engineers. Managed a $
 > Delivered PSD2, RTP, Purpose of Payment, etc regulatory requirements <br>
 
 > Executed a significant hand over to operational teams <br>
-<br>
 
 Lessons Learned
 - design and engineering work best together
