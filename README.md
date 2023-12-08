@@ -21,13 +21,13 @@
 
 Established engineering Platform strategy with the CTO as the key investor, prioritised top level initiatives with VPs across the business. Planted and grew a Platform oriented culture within the 800+ Technology organisation. Delivered foundational data phase of platform strategy.
 
-> Culture: +% increase over 2023 in Platform satisfaction; evangalised customer first development approach for internal products <br>
+> Culture: Over 2023, CSAT increase in Platform satisfaction; evangalised customer first development for internal products <br>
 
-> Excellence:  In 12mths, ~80% of microservices surfaced in one place; increased security compliance by ~60%+ <br>
+> Excellence:  In 12mths, 80%+ of microservices surfaced in one place; increased security compliance by 60%+ <br>
 
-> Metrics: DORA metrics available for all teams; GetDX survey (SPACE productivity framework) implemented for all engineers <br>
+> Metrics: DORA metrics available for all teams; implemented GetDX survey for Technology org <br>
 
-> Deployments: highest performing satisfaction ratings related to build processes (SPACE);  ~60%+ deployments standardisation across infrastructure and apps; ~60%+ deployment pipelines with an automated Release audit log, saving 500hrs of manual effort QoQ; improved cost efficiency across CICD tooling set <br>
+> Deployments: 'Ease of Release' and 'Build processes' have highest satisfaction ratings;  60%+ deployments standardisation across infrastructure and apps; 500hrs of manual effort QoQ via automated audit logging; improved cost efficiency via streamlining CICD tooling <br>
 
 > Onboarding: 1 standardised hiring process for software engineers I & II; 1 standardised onboarding process for snr /software engineers I & II; onboarding satisfaction captured for all technical employees <br>
 
