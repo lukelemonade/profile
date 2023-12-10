@@ -88,7 +88,7 @@ Lessons Learned
 
 #### C. Hoare & Co private banking | Project Manager | 4 yrs
 
-Delivered multiple improved customer experiences and game changing technologies for the 350yr old bank and seminal learning experience.
+Delivered multiple improved customer experiences with game changing technologies. A seminal learning experience of Financial Services, Technology and Business.
 
 > Improved customer payment experience, reduced costs and met regulatory timelines for SEPA <br>
 
