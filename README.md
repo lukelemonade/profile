@@ -51,7 +51,7 @@ Created and implemented a strategic delivery approach with the Head of Software 
 
 Lessons Learned
 - hero culture hurts long term delivery momentum
-- people are loyal to the right purpose
+- people love working on a meaningful mission
 <br>
 
 #### London School of Economics | MBA Essentials | 3 mths
@@ -80,16 +80,15 @@ Executed 10+ global product launches leading a team of 30 engineers. Managed a $
 > Executed a significant hand over to operational teams <br>
 
 Lessons Learned
+- co located experienced teams are the fastest
 - design and engineering work best together
 - detailed 12 mth+ timelines can create a toxic culture
-- roadmaps are better at setting expectations
-- automatic rollbacks are essential
-- highly expert teams co located are best
+- investing in deployment infrastructure is as important as what you deploy
 <br>
 
 #### C. Hoare & Co private banking | Project Manager | 4 yrs
 
-Delivered multiple improved customer experiences and game changing technologies for the 350yr old bank, ie. Cloud 😆 
+Delivered multiple improved customer experiences and game changing technologies for the 350yr old bank and seminal learning experience.
 
 > Improved customer payment experience, reduced costs and met regulatory timelines for SEPA <br>
 
