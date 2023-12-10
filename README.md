@@ -61,8 +61,8 @@ Successfully passed a MBA 'lite' course with LSE
 > Influencing techniques; Demand and Supply; Value Creation; Value Chain; Financial Statements; Return on Investment; Business performance; Unconscious bias; Organisational change <br>
 
 Lessons Learned
-- understanding what investors value makes me a pragmatic technologist
-- technology's role is in value creation
+- technological performance or tech strategy isn't a key interest for investors
+- value creation is the key space for technology to create impact
 <br>
 
 #### HSBC commercial banking | Program Manager | 2.5 yrs
