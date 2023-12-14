@@ -17,7 +17,7 @@
 
 ## Experience
 
-#### Checkout.com online payments | Technical Product Manager | 3 yrs
+#### Checkout.com online payments | Technical Product Manager | Dec '20 - Dec '23
 
 Established the engineering Platform strategy with the CTO as the key investor, prioritised top level initiatives with VPs across the business. Planted and grew a Platform-oriented culture within the 800+ Technology organisation.
 
@@ -34,27 +34,27 @@ Established the engineering Platform strategy with the CTO as the key investor, 
 Lessons Learned 
 - Platform strategy must be linked to profitability
 - Automated observability should be feature #1
-- Change engineering culture by demonstrating not talking
+- Change engineering culture by demonstrating what good looks like
 - Frequent exec changes hits delivery momentum
 - Multiple long term bets in parallel hits profitabilty
 <br>
 
-#### UK Parliament technology | Agile Coach | 7 mths
+#### UK Parliament technology | Agile Coach | May '20 - Dec '20
 
-Created and implemented a strategic delivery approach with the Head of Software and Head of Delivery, within UK Parliament’s digital services team.
+Created and implemented the strategic delivery approach within UK Parliament’s digital services team, working with the Head of Software and the Head of Delivery to embed new practices.
 
-> Strategy - Single delivery vision for everyone; team focused delivery strategy <br>
+> Communication - new simplified and transparent team communication strategy <br>
 
-> Culture - Transparent and open communication implemented in Slack;  <br>
+> Product - new customer focused and coherant backlog for each team  <br>
 
-> Coach - Weekly 121s across 30 software engineers <br>
+> Org - proposed product line and team re-structure <br>
 
 Lessons Learned
 - Hero culture hurts long term delivery momentum
 - People love working on a meaningful mission
 <br>
 
-#### London School of Economics | MBA Essentials | 3 mths
+#### London School of Economics | MBA Essentials | Jan '20 - Mar '20
 
 Successfully passed a MBA 'lite' course with LSE
 
@@ -65,7 +65,7 @@ Lessons Learned
 - Value creation is the key space for technology to create impact
 <br>
 
-#### HSBC commercial banking | Program Manager | 2.5 yrs
+#### HSBC commercial banking | Program Manager | Jun '17 - Nov '19
 
 Executed 10+ global product launches leading a team of 30 engineers. Managed a $200k monthly burn rate and operational risks, reporting to the Head of Product and Portfolio Director.
 
@@ -86,7 +86,7 @@ Lessons Learned
 - Investing in deployment infrastructure is as important as what you deploy
 <br>
 
-#### C. Hoare & Co private banking | Project Manager | 4 yrs
+#### C. Hoare & Co private banking | Project Manager | Jul '13 - May '17
 
 Delivered multiple improved customer experiences with game changing technologies. A seminal learning experience of Financial Services, Technology and Business.
 
