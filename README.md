@@ -19,15 +19,15 @@
 
 #### Checkout.com online payments | Technical Product Manager | Dec '20 - Dec '23
 
-Established the engineering Platform strategy with the CTO as the key investor, prioritised top level initiatives with VPs across the business. Planted and grew a Platform-oriented culture within the 800+ Technology organisation.
+Established the engineering Platform strategy with the CTO as the key investor, prioritised top level initiatives with VPs across the business. Grew a Platform-oriented culture within the 800+ Technology organisation.
 
-> Culture - Over 2023, CSAT increase in Platform satisfaction; evangalised customer first development for internal products <br>
+> Culture - Implemented product first development approach for internal products; catalogued engineering user experience flows; designed and evangelised new user experience journeys; showcased platform value across Technology org <br>
 
-> Excellence - In 12mths, 80%+ of microservices surfaced in one place; 60%+ increase in security compliance; scoring platform for   <br>
+> Excellence - In 12mths, 80%+ of microservices surfaced in one place; 60%+ increase in security compliance; scoring platform driving 15k engineering excellence tasks;   <br>
 
-> Data - Events across 5+ tools in one place; DORA metrics available for all teams; implemented GetDX survey for Technology org <br>
+> Data - Millioins of events across 5+ internal tools captured in one place; DORA metrics available for all teams; implemented engineering productivity survey for Technology org <br>
 
-> Deployments - Highest GetDX satisfaction ratings with 'Ease of Release' and 'Build processes';  60%+ deployments standardisation across infrastructure and appplications; 500hrs of manual effort saved QoQ via automated audit logging; improved cost efficiency via streamlining CICD tooling <br>
+> Deployments - Highest internal satisfaction ratings with 'Ease of Release' and 'Build processes';  60%+ deployments standardisation across infrastructure and appplications; 500hrs of manual effort saved QoQ via Releases feature; improved cost efficiency via platform's deployments service <br>
 
 > Onboarding - 1 standardised hiring process for software engineers I & II; 1 standardised onboarding process for snr /software engineers I & II; onboarding satisfaction captured for all technical employees <br>
 
@@ -45,7 +45,7 @@ Created and implemented the strategic delivery approach within UK Parliament’s
 
 > Communication - new simplified and transparent team communication strategy <br>
 
-> Product - new customer focused and coherant backlog for each team  <br>
+> Product - new customer focused and coherent backlog for each team  <br>
 
 > Org - proposed product line and team re-structure <br>
 
