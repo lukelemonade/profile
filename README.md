@@ -80,7 +80,6 @@ Executed 10+ global product launches leading a team of 30 engineers. Managed a $
 > Executed a significant hand over to operational teams <br>
 
 Lessons Learned
-- Co-located experienced teams are the fastest
 - Design and engineering work best together
 - Detailed 12 mth+ timelines can create a toxic culture
 - Investing in deployment infrastructure is as important as what you deploy
