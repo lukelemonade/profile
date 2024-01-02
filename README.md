@@ -25,9 +25,9 @@ Established the engineering Platform strategy with the CTO as the key investor, 
 
 > Excellence - In 12mths, 80%+ of microservices surfaced in one place; 60%+ increase in security compliance; scoring platform driving 15k engineering excellence tasks;   <br>
 
-> Data - Millioins of events across 5+ internal tools captured in one place; DORA metrics available for all teams; implemented engineering productivity survey for Technology org <br>
+> Data - Millions of events across 5+ internal tools captured in one place; DORA metrics available for all teams; implemented engineering productivity survey for Technology org <br>
 
-> Deployments - Highest internal satisfaction ratings with 'Ease of Release' and 'Build processes';  60%+ deployments standardisation across infrastructure and appplications; 500hrs of manual effort saved QoQ via Releases feature; improved cost efficiency via platform's deployments service <br>
+> Deployments - Highest internal satisfaction ratings with 'Ease of Release' and 'Build processes';  60%+ deployments standardisation across infrastructure and applications; 500hrs of manual effort saved QoQ via Releases feature; improved cost efficiency via platform's deployments service <br>
 
 > Onboarding - 1 standardised hiring process for software engineers I & II; 1 standardised onboarding process for snr /software engineers I & II; onboarding satisfaction captured for all technical employees <br>
 
@@ -36,7 +36,7 @@ Lessons Learned
 - Automated observability should be feature #1
 - Change engineering culture by demonstrating what good looks like
 - Frequent exec changes hits delivery momentum
-- Multiple long term bets in parallel hits profitabilty
+- Multiple long term bets in parallel hits profitability
 <br>
 
 #### UK Parliament technology | Agile Coach | May '20 - Dec '20
@@ -47,7 +47,7 @@ Created and implemented the strategic delivery approach within UK Parliament’s
 
 > Product - new customer focused and coherent backlog for each team  <br>
 
-> Org - proposed product line and team re-structure <br>
+> Org - proposed product line and team restructure <br>
 
 Lessons Learned
 - Hero culture hurts long term delivery momentum
@@ -69,7 +69,7 @@ Lessons Learned
 
 Executed 10+ global product launches leading a team of 30 engineers. Managed a $200k monthly burn rate and operational risks, reporting to the Head of Product and Portfolio Director.
 
-> Improved the payment experience for 130,000+ commercial banking customers across key markets (Asia, US, South Amercia, EU) <br>
+> Improved the payment experience for 130,000+ commercial banking customers across key markets (Asia, US, South America, EU) <br>
 
 > Over $3m initial operational savings, 27% customer call reductions <br>
 
@@ -98,7 +98,7 @@ Delivered multiple improved customer experiences with game changing technologies
 
 > Enabled ~100 banking and wealth colleagues to manage their ~10k+ customer relationships digitally <br>
 
-> Completed analysis towards a successful post deal re-org, on the sale of the wealth management business to Casenove Capital <br>
+> Completed analysis towards a successful post deal reorg, on the sale of the wealth management business to Casenove Capital <br>
 
 > Enabled ~10k+ customers to pay cheques in by taking a photo <br>
 <br>
